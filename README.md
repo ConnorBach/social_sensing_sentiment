@@ -1,6 +1,7 @@
 # sentiment_analysis
 
 Important: add your Twitter keys to the crawler.py file
+and the getTweetSentiment.py file
 
 Command to run api:  
 python3.6 api.py  
